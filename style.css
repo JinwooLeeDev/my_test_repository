@@ -291,22 +291,6 @@ footer {
     text-decoration: none;
 }
 
-.footer-social {
-    display: flex;
-    gap: 10px;
-    margin-top: 10px;
-}
-
-.footer-social a {
-    display: grid;
-    width: 19px;
-    height: 19px;
-    place-items: center;
-    border: 1px solid #fff;
-    border-radius: 4px;
-    font-size: 11px;
-}
-
 .footer-legal {
     margin-top: auto;
     color: #888;
